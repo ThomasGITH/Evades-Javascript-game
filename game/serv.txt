@@ -1,0 +1,18 @@
+var express = require('express');
+var socket = require('socket.io');
+
+var app = express();
+
+//55030
+var server = app.listen(55030, function() {
+    console.log('listening to request on port 55030');
+    console.log('');
+});
+
+app.use(express.static('game'));
+
+var io = socket(server);
+
+io.on('connection', function(socket) {
+
+});

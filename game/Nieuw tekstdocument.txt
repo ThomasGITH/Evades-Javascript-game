@@ -1,0 +1,9 @@
+#canvas{
+    background-color: #C0C0C0;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: inline;
+    margin:auto;}
