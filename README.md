@@ -1,5 +1,5 @@
 # Evades-Javascript-game 
-A clone of the popular multiplayer-based web-game 'Evades.io'. The game runs on a node.js powered express server. I'm making it both for fun and to play with friends (we can't change the real game so I made this). 
+A clone of the popular multiplayer-based web-game 'Evades.io'. The game runs on a node.js powered express server. I'm making it both for fun and to play with friends (we can't make changes to the real game so I made this). 
 
 ##### As of 9-11-2019 I'm still working on it.
 
